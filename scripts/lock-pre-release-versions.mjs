@@ -58,3 +58,7 @@ exec('pnpm --silent --filter=!./playgrounds/* -r exec pwd', async (err, stdout) 
 
   console.log('Done.')
 })
+
+
+
+console.log('Done');
